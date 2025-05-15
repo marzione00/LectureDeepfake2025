@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  15 MAY 2025 16:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  15 MAY 2025 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3507,10 +3507,10 @@ Package logreq Info: Writing requests to 'Presentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33910 strings out of 473579
- 665961 string characters out of 5728228
- 1388268 words of memory out of 5000000
- 56027 multiletter control sequences out of 15000+600000
+ 33917 strings out of 473579
+ 666146 string characters out of 5728228
+ 1389462 words of memory out of 5000000
+ 56033 multiletter control sequences out of 15000+600000
  578396 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,1877b,2258s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3536,10 +3536,10 @@ e/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/te
 xlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texl
 ive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texliv
 e/2024/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb>
-Output written on Presentation.pdf (58 pages, 3838298 bytes).
+Output written on Presentation.pdf (58 pages, 3839665 bytes).
 PDF statistics:
- 1440 PDF objects out of 1440 (max. 8388607)
- 907 compressed objects within 10 object streams
- 157 named destinations out of 1000 (max. 500000)
+ 1447 PDF objects out of 1728 (max. 8388607)
+ 914 compressed objects within 10 object streams
+ 158 named destinations out of 1000 (max. 500000)
  2261 words of extra memory for PDF output out of 10000 (max. 10000000)
 

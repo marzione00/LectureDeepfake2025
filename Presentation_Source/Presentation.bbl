@@ -17,6 +17,14 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global/global}
+  \entry{scikit}{online}{}{}
+    \verb{url}
+    \verb https://scikit-learn.org/stable/auto_examples/classification/plot_cla
+    \verb ssifier_comparison.html#sphx-glr-auto-examples-classification-plot-cl
+    \verb assifier-comparison-py
+    \endverb
+  \endentry
+
   \entry{dfrlab_briefing}{report}{}{}
     \name{author}{1}{}{%
       {{hash=A}{%
