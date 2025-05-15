@@ -1,0 +1,12 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\beamer@sectionintoc {1}{Introduzione e definizioni}{3}{0}{1}
+\beamer@sectionintoc {2}{Storia del fenomeno}{6}{0}{2}
+\beamer@sectionintoc {3}{Case studies}{11}{0}{3}
+\beamer@sectionintoc {4}{IA Predittiva vs IA Generativa}{16}{0}{4}
+\beamer@sectionintoc {5}{IA Generativa}{21}{0}{5}
+\beamer@sectionintoc {6}{Truffe con Deepfake}{32}{0}{6}
+\beamer@sectionintoc {7}{Manipolazione dei Social Media}{37}{0}{7}
+\beamer@sectionintoc {8}{Interferenze Politiche}{43}{0}{8}
+\beamer@sectionintoc {9}{Normativa e policy}{48}{0}{9}
+\beamer@sectionintoc {10}{Conclusioni}{50}{0}{10}
