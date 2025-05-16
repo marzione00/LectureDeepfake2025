@@ -25,6 +25,33 @@
     \endverb
   \endentry
 
+  \entry{arthur2013clickfarms}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=AC}{%
+         family={Arthur},
+         familyi={A\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AC1}
+    \strng{fullhash}{AC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{Accessed: 2025-05-16}
+    \field{title}{How low-paid workers at 'click farms' create appearance of
+  online popularity}
+    \verb{url}
+    \verb https://www.theguardian.com/technology/2013/aug/02/click-farms-appear
+    \verb ance-online-popularity
+    \endverb
+    \field{journaltitle}{The Guardian}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{dfrlab_briefing}{report}{}{}
     \name{author}{1}{}{%
       {{hash=A}{%
@@ -46,62 +73,30 @@
     \field{year}{2024}
   \endentry
 
-  \entry{india_deepfake}{article}{}{}
+  \entry{bond2024russian}{article}{}{}
     \name{author}{1}{}{%
-      {{hash=B}{%
-         family={{BBC}},
+      {{hash=BS}{%
+         family={Bond},
          familyi={B\bibinitperiod},
+         given={Shannon},
+         giveni={S\bibinitperiod},
       }}%
     }
-    \strng{namehash}{B1}
-    \strng{fullhash}{B1}
+    \strng{namehash}{BS1}
+    \strng{fullhash}{BS1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{note}{Online edition}
-    \field{title}{Indian Political Deepfakes in Dialects}
-    \field{journaltitle}{BBC}
-    \field{year}{2020}
-  \endentry
-
-  \entry{bbc_bitvex2022}{online}{}{}
-    \name{author}{1}{}{%
-      {{hash=B}{%
-         family={{BBC News}},
-         familyi={B\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{B2}
-    \strng{fullhash}{B2}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Crypto Scam Flavored by Deepfake Elon Musk Video}
+    \field{note}{Accessed: 2025-05-16}
+    \field{title}{This is what Russian propaganda looks like in 2024}
     \verb{url}
-    \verb https://www.bbc.com/news/technology-61345678
+    \verb https://www.npr.org/2024/06/06/g-s1-2965/russia-propaganda-deepfakes-
+    \verb sham-websites-social-media-ukraine
     \endverb
-    \field{year}{2022}
-  \endentry
-
-  \entry{bbc_fake_sikh}{article}{}{}
-    \name{author}{1}{}{%
-      {{hash=B}{%
-         family={{BBC News}},
-         familyi={B\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{B2}
-    \strng{fullhash}{B2}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{note}{Online edition}
-    \field{title}{Fake Sikh Accounts Exposed}
-    \field{journaltitle}{BBC News}
-    \field{year}{2021}
+    \field{journaltitle}{NPR}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{video_rewrite}{inproceedings}{}{}
@@ -160,30 +155,6 @@
     \field{year}{2021}
   \endentry
 
-  \entry{cir2021_sockpuppet}{report}{}{}
-    \name{author}{1}{}{%
-      {{hash=C}{%
-         family={{Centre for Information Resilience}},
-         familyi={C\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{C1}
-    \strng{fullhash}{C1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \field{title}{Exposing Organised Sockpuppet Influence Operations}
-    \verb{url}
-    \verb https://informationresilience.org/sockpuppet-report-2021
-    \endverb
-    \list{institution}{1}{%
-      {Centre for Information Resilience}%
-    }
-    \field{type}{techreport}
-    \field{year}{2021}
-  \endentry
-
   \entry{channel4_bangladesh}{article}{}{}
     \name{author}{1}{}{%
       {{hash=C}{%
@@ -191,8 +162,8 @@
          familyi={C\bibinitperiod},
       }}%
     }
-    \strng{namehash}{C2}
-    \strng{fullhash}{C2}
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
@@ -203,6 +174,33 @@
     \field{year}{2022}
   \endentry
 
+  \entry{christopher2020deepfakes}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=CN}{%
+         family={Christopher},
+         familyi={C\bibinitperiod},
+         given={Nilesh},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CN1}
+    \strng{fullhash}{CN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{Accessed: 2025-05-16}
+    \field{title}{An Indian politician is using deepfakes to try and win
+  voters}
+    \verb{url}
+    \verb https://www.technologyreview.com/2020/02/19/868173/an-indian-politici
+    \verb an-is-using-deepfakes-to-try-and-win-voters/
+    \endverb
+    \field{journaltitle}{MIT Technology Review}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{cse_canada_2025}{report}{}{}
     \name{author}{1}{}{%
       {{hash=C}{%
@@ -210,8 +208,8 @@
          familyi={C\bibinitperiod},
       }}%
     }
-    \strng{namehash}{C3}
-    \strng{fullhash}{C3}
+    \strng{namehash}{C2}
+    \strng{fullhash}{C2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
@@ -268,24 +266,16 @@
     \field{year}{2021}
   \endentry
 
-  \entry{zelensky_fake}{report}{}{}
-    \name{author}{1}{}{%
-      {{hash=D}{%
-         family={{DFRLab}},
-         familyi={D\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{D2}
-    \strng{fullhash}{D2}
-    \field{labelnamesource}{author}
+  \entry{forbes_bitvex2022}{online}{}{}
     \field{labeltitlesource}{title}
-    \field{sortinit}{D}
-    \field{sortinithash}{D}
-    \field{title}{Zelensky Fake Video Analysis}
-    \list{institution}{1}{%
-      {Atlantic Council DFRLab}%
-    }
-    \field{type}{techreport}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{ELON MUSK DIVENTA UN DEEPFAKE PROMOTORE DI CRYPTO: ATTENTI
+  ALLA TRUFFA!}
+    \verb{url}
+    \verb https://tech.everyeye.it/notizie/elon-musk-deepfake-promotore-crypto-
+    \verb attenti-truffa-588756.html
+    \endverb
     \field{year}{2022}
   \endentry
 
@@ -352,6 +342,24 @@
     \field{year}{2024}
   \endentry
 
+  \entry{gao2024disinformation}{report}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Accessed: 2025-05-16}
+    \field{number}{GAO-24-107600}
+    \field{title}{Foreign Disinformation: Defining and Detecting Threats}
+    \verb{url}
+    \verb https://www.gao.gov/products/gao-24-107600
+    \endverb
+    \list{institution}{1}{%
+      {U.S. Government Accountability Office}%
+    }
+    \field{type}{techreport}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{ftc_2022_deepfake_kidnap}{online}{}{}
     \name{author}{1}{}{%
       {{hash=F}{%
@@ -397,6 +405,38 @@
     \field{year}{2022}
   \endentry
 
+  \entry{menon2021sikhs}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=MS}{%
+         family={Menon},
+         familyi={M\bibinitperiod},
+         given={Shruti},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={Carmichael},
+         familyi={C\bibinitperiod},
+         given={Flora},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MSCF1}
+    \strng{fullhash}{MSCF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{note}{Accessed: 2025-05-16}
+    \field{title}{Farm laws: Sikhs being targeted by fake social media
+  profiles}
+    \verb{url}
+    \verb https://www.bbc.com/news/world-asia-india-59338245
+    \endverb
+    \field{journaltitle}{BBC News}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{meta_report}{report}{}{}
     \name{author}{1}{}{%
       {{hash=M}{%
@@ -418,6 +458,75 @@
     \field{year}{2021}
   \endentry
 
+  \entry{milmo2024china}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=MD}{%
+         family={Milmo},
+         familyi={M\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hawkins},
+         familyi={H\bibinitperiod},
+         given={Amy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MDHA1}
+    \strng{fullhash}{MDHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{note}{Accessed: 2025-05-16}
+    \field{title}{How China is using AI news anchors to deliver its propaganda}
+    \verb{url}
+    \verb https://www.theguardian.com/technology/article/2024/may/18/how-china-
+    \verb is-using-ai-news-anchors-to-deliver-its-propaganda
+    \endverb
+    \field{journaltitle}{The Guardian}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NgCarley2025}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=NLHX}{%
+         family={Ng},
+         familyi={N\bibinitperiod},
+         given={Lynnette Hui\bibnamedelima Xian},
+         giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  X\bibinitperiod},
+      }}%
+      {{hash=CKM}{%
+         family={Carley},
+         familyi={C\bibinitperiod},
+         given={Kathleen\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NLHXCKM1}
+    \strng{fullhash}{NLHXCKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \verb{doi}
+    \verb 10.1038/s41598-025-96372-1
+    \endverb
+    \field{number}{1}
+    \field{pages}{10973}
+    \field{title}{A global comparison of social media bot and human
+  characteristics}
+    \verb{url}
+    \verb https://www.nature.com/articles/s41598-025-96372-1
+    \endverb
+    \field{volume}{15}
+    \field{journaltitle}{Scientific Reports}
+    \field{year}{2025}
+  \endentry
+
   \entry{nist_definition_ai}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=N}{%
@@ -436,27 +545,6 @@
     \field{year}{2025}
   \endentry
 
-  \entry{npr_fake_us}{online}{}{}
-    \name{author}{1}{}{%
-      {{hash=N}{%
-         family={{NPR}},
-         familyi={N\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{N2}
-    \strng{fullhash}{N2}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{N}
-    \field{sortinithash}{N}
-    \field{title}{Fake State Dept Video}
-    \verb{url}
-    \verb https://www.npr.org/sections/codeswitch/2023/01/15/849572764/fake-sta
-    \verb te-department-video-deepfake
-    \endverb
-    \field{year}{2023}
-  \endentry
-
   \entry{nsa_definition}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=N}{%
@@ -464,8 +552,8 @@
          familyi={N\bibinitperiod},
       }}%
     }
-    \strng{namehash}{N3}
-    \strng{fullhash}{N3}
+    \strng{namehash}{N2}
+    \strng{fullhash}{N2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{N}
@@ -593,28 +681,33 @@
     \field{year}{2020}
   \endentry
 
-  \entry{forbes_bitvex2022}{online}{}{}
+  \entry{strick2021realsikh}{report}{}{}
     \name{author}{1}{}{%
-      {{hash=SJ}{%
-         family={Smith},
+      {{hash=SB}{%
+         family={Strick},
          familyi={S\bibinitperiod},
-         given={John},
-         giveni={J\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SJ1}
-    \strng{fullhash}{SJ1}
+    \strng{namehash}{SB1}
+    \strng{fullhash}{SB1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{S}
     \field{sortinithash}{S}
-    \field{title}{Deepfake Video of Elon Musk Promotes Fake Crypto
-  “BitVex”}
+    \field{note}{Accessed: 2025-05-16}
+    \field{title}{Analysis of the \#RealSikh Influence Operation}
     \verb{url}
-    \verb https://www.forbes.com/sites/johnsmith/2022/05/10/deepfake-elon-musk-
-    \verb bitvex-scam
+    \verb https://www.info-res.org/app/uploads/2024/11/Analysis-of-the-RealSikh
+    \verb -Network.pdf
     \endverb
-    \field{year}{2022}
+    \list{institution}{1}{%
+      {Centre for Information Resilience}%
+    }
+    \field{type}{techreport}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{cambridge_vox}{online}{}{}
@@ -638,42 +731,29 @@
     \field{year}{2018}
   \endentry
 
-  \entry{washpost_fake}{article}{}{}
+  \entry{wakefield2022deepfake}{article}{}{}
     \name{author}{1}{}{%
-      {{hash=W}{%
-         family={{Washington Post}},
+      {{hash=WJ}{%
+         family={Wakefield},
          familyi={W\bibinitperiod},
+         given={Jane},
+         giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{W1}
-    \strng{fullhash}{W1}
+    \strng{namehash}{WJ1}
+    \strng{fullhash}{WJ1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{W}
     \field{sortinithash}{W}
-    \field{note}{Online edition}
-    \field{title}{Fake “D.C. Weekly” Site Uncovered}
-    \field{journaltitle}{The Washington Post}
-    \field{year}{2023}
-  \endentry
-
-  \entry{taiwan_deepfake}{article}{}{}
-    \name{author}{1}{}{%
-      {{hash=W}{%
-         family={{Washington Post}},
-         familyi={W\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{W1}
-    \strng{fullhash}{W1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{W}
-    \field{sortinithash}{W}
-    \field{note}{Online edition}
-    \field{title}{Taiwan Deepfake Election Videos}
-    \field{journaltitle}{The Washington Post}
-    \field{year}{2023}
+    \field{note}{Accessed: 2025-05-16}
+    \field{title}{Deepfake presidents used in Russia-Ukraine war}
+    \verb{url}
+    \verb https://www.bbc.com/news/technology-60780142
+    \endverb
+    \field{journaltitle}{BBC News}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{echolab2020}{report}{}{}

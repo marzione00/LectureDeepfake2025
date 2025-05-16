@@ -19,52 +19,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Presentation-blx.bib
 Database file #2: bibliography.bib
-Repeated entry---line 244 of file bibliography.bib
+Repeated entry---line 243 of file bibliography.bib
  : @online{channel4_bangladesh
  :                            ,
 I'm skipping whatever remains of this entry
 Biblatex version: 3.20
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 32 entries,
+You've used 33 entries,
             6402 wiz_defined-function locations,
-            1336 strings with 12762 characters,
-and the built_in function-call counts, 142925 in all, are:
-= -- 9293
-> -- 2913
-< -- 986
-+ -- 2975
-- -- 898
-* -- 9003
-:= -- 13018
+            1360 strings with 13833 characters,
+and the built_in function-call counts, 156676 in all, are:
+= -- 10569
+> -- 2898
+< -- 1023
++ -- 3457
+- -- 941
+* -- 10183
+:= -- 14684
 add.period$ -- 0
-call.type$ -- 32
-change.case$ -- 517
-chr.to.int$ -- 42
-cite$ -- 62
-duplicate$ -- 15763
-empty$ -- 13896
-format.name$ -- 1597
-if$ -- 30734
+call.type$ -- 33
+change.case$ -- 531
+chr.to.int$ -- 50
+cite$ -- 64
+duplicate$ -- 17220
+empty$ -- 15124
+format.name$ -- 1582
+if$ -- 33293
 int.to.chr$ -- 0
-int.to.str$ -- 96
+int.to.str$ -- 84
 missing$ -- 0
-newline$ -- 718
-num.names$ -- 1569
-pop$ -- 10479
+newline$ -- 793
+num.names$ -- 1504
+pop$ -- 10873
 preamble$ -- 1
-purify$ -- 598
+purify$ -- 617
 quote$ -- 0
-skip$ -- 5711
+skip$ -- 5715
 stack$ -- 0
-substring$ -- 14074
-swap$ -- 3782
-text.length$ -- 780
-text.prefix$ -- 31
+substring$ -- 16850
+swap$ -- 4084
+text.length$ -- 798
+text.prefix$ -- 32
 top$ -- 1
-type$ -- 1065
+type$ -- 1099
 warning$ -- 0
-while$ -- 1604
+while$ -- 1812
 width$ -- 0
-write$ -- 687
+write$ -- 761
 (There was 1 error message)
